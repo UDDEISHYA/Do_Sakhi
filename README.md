@@ -2,7 +2,7 @@
 - **“2”** represents **two-way interaction** – the real-time support between users and services.
 - **“Sakhi”** means **a trusted friend** – guiding, supporting, and inspiring the girl child in every step.
 ---
- ![image](https://github.com/user-attachments/assets/ace3c6b3-6fed-41f1-9394-1bb934be11ca)
+
 
 
 ## Overview
