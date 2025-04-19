@@ -38,5 +38,10 @@
 
 ---
 
+## YouTube Link
+
+Check out the video on YouTube: [DO SAKHI Introduction](https://youtu.be/r8S-AXKtIPY)
+---
+
 > **“Do Sakhi  for every girl, everywhere.”**
 
