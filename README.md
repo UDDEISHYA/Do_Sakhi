@@ -1,5 +1,5 @@
 # 👭 Do Sakhi
-- **“2”** represents **two-way interaction** – the real-time support between users and services.
+- **“Do”** represents **two-way interaction** – the real-time support between users and services.
 - **“Sakhi”** means **a trusted friend** – guiding, supporting, and inspiring the girl child in every step.
 ---
 
